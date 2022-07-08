@@ -49,7 +49,7 @@ else{
 }
 
 observador.observe(holaAnimado);
-observador.observe(flechaAnimado);
+observador2.observe(flechaAnimado);
 observador.observe(antPreguntaAnimado);
 observador.observe(preguntaAnimado);
 observador2.observe(respuestaAnimado);
