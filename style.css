@@ -87,7 +87,7 @@ p{
 #flecha object{
     transform: translateY(100px);
     opacity: 0;
-    width: 60px;
+    width: 55px;
     transition: transform 1s 1.5s, opacity 1s 1.5s;
 }
 
