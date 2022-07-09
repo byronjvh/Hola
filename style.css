@@ -84,13 +84,14 @@ p{
     height: 30vh;
 }
 
-#flecha i{
+#flecha object{
     transform: translateY(100px);
     opacity: 0;
+    width: 60px;
     transition: transform 1s 1.5s, opacity 1s 1.5s;
 }
 
-#flecha.visible i{
+#flecha.visible object{
     transform: translateY(0);
     opacity: 1;
 }
